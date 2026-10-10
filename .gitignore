@@ -17,3 +17,7 @@ obj/
 .vs/
 .idea/
 .vscode/*.log
+
+# 发行打包产物
+dist/
+*.zip
