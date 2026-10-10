@@ -1,0 +1,17 @@
+; Engine configuration file.
+; Godot 4.5.1 Mono 项目配置
+
+config_version=5
+
+[application]
+
+config/name="TrpgMod"
+config/features=PackedStringArray("4.5", "C#", "Mobile")
+
+[dotnet]
+
+project/assembly_name="TrpgMod"
+
+[rendering]
+
+renderer/rendering_method="mobile"
